@@ -1,4 +1,4 @@
 devops
 aws
 `ws azure
-aws
+awsdevops is intro
